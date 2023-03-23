@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Community Modules</title>
-    <link>https://pocok-dev.github.io/</link>
+    <link>https://aya.sh/</link>
     <description>Recent content on Hugo Community Modules</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 30 Nov 2021 18:39:20 +0100</lastBuildDate><atom:link href="https://pocok-dev.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Nov 2021 18:39:20 +0100</lastBuildDate><atom:link href="https://aya.sh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>lazyimg</title>
-      <link>https://pocok-dev.github.io/gallery/lazyimg/</link>
+      <link>https://aya.sh/gallery/lazyimg/</link>
       <pubDate>Tue, 30 Nov 2021 18:39:20 +0100</pubDate>
       
-      <guid>https://pocok-dev.github.io/gallery/lazyimg/</guid>
+      <guid>https://aya.sh/gallery/lazyimg/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Icons</title>
-      <link>https://pocok-dev.github.io/gallery/icons/</link>
+      <link>https://aya.sh/gallery/icons/</link>
       <pubDate>Sun, 28 Nov 2021 17:15:30 +0100</pubDate>
       
-      <guid>https://pocok-dev.github.io/gallery/icons/</guid>
+      <guid>https://aya.sh/gallery/icons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introducing an icon module that scales</title>
-      <link>https://pocok-dev.github.io/blog/icons/</link>
+      <link>https://aya.sh/blog/icons/</link>
       <pubDate>Sun, 28 Nov 2021 10:46:04 +0100</pubDate>
       
-      <guid>https://pocok-dev.github.io/blog/icons/</guid>
+      <guid>https://aya.sh/blog/icons/</guid>
       <description>There was a time when crafting an icon font was iconic. Now the time has come to replace them with something better — something that can be easily processed, embedded and customized. Icons as they were meant to be so to say. With Hugo and without any additional tooling.
 Let&amp;rsquo;s use SVG icons! When I developed my first Hugo theme more than four years ago, I was searching for a reliable option to embed SVG icons as an alternative to icon fonts, but only for the icons that the users of the theme actually needed.</description>
     </item>
     
     <item>
       <title>aya.sh consulting and incubator</title>
-      <link>https://pocok-dev.github.io/about/</link>
+      <link>https://aya.sh/about/</link>
       <pubDate>Mon, 22 Nov 2021 23:53:44 +0100</pubDate>
       
-      <guid>https://pocok-dev.github.io/about/</guid>
+      <guid>https://aya.sh/about/</guid>
       <description>Welcome to Hungary’s premier incubation hub — where innovation meets creativity! 🚀
 🌟 Discover the first-of-its-kind incubation hub in Hungary, inspired by the pioneering spirit of Silicon Valley. 💡 Ignite your ideas with our vibrant community, fueling a new generation of game-changers. 💪 Embrace the &amp;#34;can do&amp;#34; attitude that drives the success of the world&amp;#39;s most groundbreaking software solutions. 🌍 Join us in putting Hungary on the map as a leading player in the global software landscape, rivaling the best of Silicon Valley.</description>
     </item>
