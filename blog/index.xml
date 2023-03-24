@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Hugo Community Modules</title>
+    <title>Blogs on aya.sh consulting</title>
     <link>https://aya.sh/blog/</link>
-    <description>Recent content in Blogs on Hugo Community Modules</description>
+    <description>Recent content in Blogs on aya.sh consulting</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 28 Nov 2021 10:46:04 +0100</lastBuildDate><atom:link href="https://aya.sh/blog/index.xml" rel="self" type="application/rss+xml" />
